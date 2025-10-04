@@ -1,4 +1,7 @@
-## <img src="assets/icon_fog.png" alt="Fog Icon" width="20"/> Fog Flow – Environmental Monitoring Dashboard (UI Concept)
+<h2>
+  <img src="https://github.com/jumAsm/FogFlow-UI/blob/main/Fflow_icon.png?raw=true" alt="Fog Icon" width="24" style="vertical-align: middle;"/>
+  Fog Flow – Environmental Monitoring Dashboard (UI Concept)
+</h2>
 
 **Fog Flow** is a modern UI/UX dashboard concept I designed for a **hackathon project** focused on fog-harvesting in the Asir region.  
 The design highlights how environmental and sustainability data can be presented clearly, calmly, and beautifully.
